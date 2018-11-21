@@ -1,2 +1,2 @@
 # tristach.github.io
-Skillset
+Skillsets
