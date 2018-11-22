@@ -10,4 +10,4 @@ Skillsets
 
 
 3.  *Link to my blog:*
-(https://sustainablehealthblog.blogspot.com/)
+https://sustainablehealthblog.blogspot.com/
