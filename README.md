@@ -9,5 +9,5 @@ Skillsets
 
 
 
-3.  **Link to my blog:**
+3.  **Link to my blog Sustainable Health and Wealth:**
 [link to Google!](https://sustainablehealthblog.blogspot.com)
