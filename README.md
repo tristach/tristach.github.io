@@ -1,7 +1,7 @@
 # Nick Stach's Latest Skills and Projects
 Skillsets
 
-1.  Python Contributions
+1.  Python Contributions [here](https://www.tumblr.com/blog/tristach605)
 
 
 
