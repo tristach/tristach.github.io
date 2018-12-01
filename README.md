@@ -1,7 +1,7 @@
 # Nick Stach's Latest Skills and Projects
 Skillsets
 
-1.  [Resume](https://www.tumblr.com/blog/tristach605)
+1.  [Resume](https://docs.google.com/document/d/1T6IQzd6bjExU7OlBAImMeq6MHIhIrc8EDSxyAta572A/edit)
 
 
 
