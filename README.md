@@ -5,7 +5,7 @@
 
 
 
-2.  Projects
+2.  [Skills and Projects](https://tristach605.tumblr.com)
 
 
 
