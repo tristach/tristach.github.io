@@ -11,3 +11,5 @@
 
 
 4.  [HTML](https://code.sololearn.com/Wn6cRHUC3LKu/#html)
+
+5.  [Python](https://code.sololearn.com/WaYfF4olwfGq/#html)
