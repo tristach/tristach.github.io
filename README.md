@@ -3,13 +3,21 @@
 
 1.  [Resume](https://docs.google.com/document/d/1I7IPYtvTf3F1rp64qVABfW2mYtttz-yexBj7kVO6OAY/edit)
 
+2.  [Sustainable Health and Wealth, squarespace](http://sustainablehealthwealth.squarespace.com/)
 
-2.  [https://sustainablehealtwealth.com](http://sustainablehealthwealth.squarespace.com/)
+3.  [Rainbow English, WordPress](https://rainboweigo.jp/)
 
+3.  [HTML](https://tristach.github.io/odin-recipes/)
 
-3.  [HTML](https://code.sololearn.com/Wn6cRHUC3LKu/#html)
+4.  [CSS](https://tristach.github.io/CSS-Project/)
 
-4.  [Python](https://tristach605.tumblr.com)
+5.  [Flexbox](https://tristach.github.io/flexbox.BA/)
+
+6.  [JavaScript to-do-list](https://tristach.github.io/to-do-list/)
+
+7.  [JavaScript math game](https://tristach.github.io/math-game/)
+
+8.  [JavaScript with API](https://tristach.github.io/dog-fetch-api/)
 
 
 
