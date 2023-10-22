@@ -11,7 +11,7 @@
 
 4.  [CSS](https://tristach.github.io/CSS-Blackjack.Fractals/)
 
-5.  [Flexbox](file:///c%3A/Users/trist/repos/flexbox.BA/index.html)
+5.  [Flexbox](https://tristach.github.io/flexbox.Project.Generic/)
 
 6.  [JavaScript to-do-list](https://tristach.github.io/to-do-list/)
 
