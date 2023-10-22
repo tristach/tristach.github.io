@@ -1,7 +1,7 @@
 # Nick Stach's Resume, Skills and Projects  
 
 
-1.  [Resume](https://docs.google.com/document/d/1I7IPYtvTf3F1rp64qVABfW2mYtttz-yexBj7kVO6OAY/edit)
+1.  [Resume](https://docs.google.com/document/d/1U-F7MY55Toaxgu-LHhxxRW0wReUuArJs/edit?usp=sharing&ouid=104854227348305323052&rtpof=true&sd=true)
 
 2.  [Sustainable Health and Wealth, squarespace](http://sustainablehealthwealth.squarespace.com/)
 
