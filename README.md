@@ -6,7 +6,7 @@
 2.  [CloudCover, Azure](https://github.com/tristach/rakuten-ML-cloud-cover)
 
 3.  [Honey Net, Cybersecurity, Cloud Architecture, Azure](https://github.com/tristach/tristach)
-4.  
+
 ### Web / JavaScript Projects
 4. [JavaScript with API](https://tristach.github.io/dog-fetch-api/)
 
