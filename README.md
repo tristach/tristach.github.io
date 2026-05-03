@@ -1,7 +1,7 @@
 # Nick Stach's Resume, Skills and Projects  
 
 
-1.  [Resume]file:///C:/Users/trist/OneDrive/Desktop/Admin/Nick_Stach_Res.2026.GitHub.pdf
+1.  [Resume]
 
 2.  [CloudCover, Azure](https://github.com/tristach/rakuten-ML-cloud-cover)
 
